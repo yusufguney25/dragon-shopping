@@ -1,0 +1,12 @@
+[
+    {"id": "110","name": "Red dragon", "priceUSD":100,"isRare":false},
+    {"id": "111","name": "Green dragon", "priceUSD":100,"isRare":true},
+    {"id": "112","name": "Black dragon", "priceUSD":100,"isRare":false},
+    {"id": "113","name": "Gold dragon", "priceUSD":100,"isRare":true},
+    {"id": "114","name": "Chaos dragon", "priceUSD":100,"isRare":false},
+    {"id": "115","name": "Silver dragon", "priceUSD":100,"isRare":true},
+    {"id": "116","name": "Platium dragon", "priceUSD":100,"isRare":false},
+    {"id": "117","name": "Bronze dragon", "priceUSD":100,"isRare":true},
+    {"id": "118","name": "Etheral dragon", "priceUSD":100,"isRare":false},
+    {"id": "119","name": "Undead dragon", "priceUSD":100,"isRare":false}
+]
