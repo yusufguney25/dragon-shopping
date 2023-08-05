@@ -14,7 +14,7 @@ async function loadCards()
         currencySymbol="&dollar;";
     }
     try {
-        const response = await fetch('http://127.0.0.1:5500/card.json');
+        const response = await fetch('http:/https://yusufguney25.github.io/dragon-shopping/card.json');
         let cardsJson= await response.json();
         //console.log(cardsJson);
         var cards = cardsJson.map(function (card) {
