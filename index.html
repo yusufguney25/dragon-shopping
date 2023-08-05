@@ -7,6 +7,22 @@
     <script src="cardcollector.js"></script>
 </head>
 <body onload="loadCards()">
+    <table id="cardOptions">
+        <tr>
+            <td>
+                <input type="checkbox" id="raresOnly" name="raresOnly" value="raresOnly" onclick="loadCards()">
+                <label for="raresOnly">Show Rare Cards Only</label>
+            </td>
+            <td>
+                <input type="checkbox" id="currency" name="currency" value="currency" onclick="loadCards()">
+                <label for="currency">Show Prices in EUR</label>
+            </td>
+        </tr>
+    </table>
+    <!-- ASIL TABLOMUZ AŞAĞIDA OLACAK -->
+    <table id="myCards" border="1" width="75%">
+        
+    </table>
     
 </body>
 </html>
